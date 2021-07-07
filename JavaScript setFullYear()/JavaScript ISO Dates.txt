@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript ISO Dates</h2>
+
+<p id="demo"></p>
+
+<script>
+const d = new Date("2015-03-25");
+document.getElementById("demo").innerHTML = d;
+</script>
+
+</body>
+</html>
+
+
+
+JavaScript ISO Dates
+Wed Mar 25 2015 01:00:00 GMT+0100 (heure normale d’Europe centrale)
